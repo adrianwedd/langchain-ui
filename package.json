@@ -38,7 +38,7 @@
     "framer-motion": "^10.8.5",
     "install": "^0.13.0",
     "ky": "^0.33.3",
-    "langchain": "^0.0.63",
+    "langchain": "^0.0.141",
     "next": "^13.3.0",
     "next-auth": "^4.20.1",
     "npm": "^9.6.3",
